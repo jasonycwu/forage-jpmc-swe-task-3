@@ -1,3 +1,9 @@
+/**
+ * @Author: Jason Y. Wu
+ * @Date:   2024-03-29 04:13:43
+ * @Last Modified by:   Jason Y. Wu
+ * @Last Modified time: 2024-03-29 04:42:19
+ */
 export interface Order {
   price: number,
   size: number,
