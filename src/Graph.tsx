@@ -26,7 +26,7 @@ class Graph extends Component<IProps, {}> {
         price_abc: 'float', // used to calc ratio
         price_def: 'float', // used to calc ratio
         ratio: 'float',
-        timstamp: 'date',
+        timestamp: 'date',
         upper_bound: 'float',
         lower_bound: 'float',
         trigger_alert: 'float',
